@@ -36,3 +36,5 @@ dependencies:
       - asyncio==3.4.3
       - beautifulsoup4==4.11.1
       - sqlite3==0.4.6
+      - folium==0.14.0
+      - geopandas==0.10.2
