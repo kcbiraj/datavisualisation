@@ -14,7 +14,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.11.11
+  - python=3.8.15
   - pip
   - bottleneck
   - pip:
@@ -27,14 +27,5 @@ dependencies:
       - matplotlib==3.6.2
       - seaborn==0.12.1
       - scikit-learn==1.1.3
-      - pyspark==3.4.1
-      - pyarrow==12.0.1
-      - pyodbc==4.0.39
-      - findspark==2.0.1
-      - aiohttp==3.8.1
-      - requests==2.28.1
-      - asyncio==3.4.3
-      - beautifulsoup4==4.11.1
-      - sqlite3==0.4.6
-      - folium==0.14.0
+      - folium==0.12.1
       - geopandas==0.10.2
